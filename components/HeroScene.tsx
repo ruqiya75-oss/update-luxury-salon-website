@@ -161,7 +161,7 @@ const HeroScene = () => {
           opacity={0.5}
         />
         
-        <Environment preset="night" />
+        
       </Canvas>
     </div>
   )

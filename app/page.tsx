@@ -37,13 +37,23 @@ export default function Home() {
       <Navbar />
       <Hero />
       <About />
-      <Services />
-      <Experts />
-      <Booking />
+      <section id="services">
+  <Services />
+</section>
+      <section id="experts">
+  <Experts />
+</section>
+      <section id="booking">
+  <Booking />
+</section>
       <Testimonials />
-      <Gallery />
+      <section id="gallery">
+  <Gallery />
+</section>
       <Pricing />
-      <ContactLocation />
+     <section id="contact">
+  <ContactLocation />
+</section>
       <Footer />
       <ScrollToTop />  {/* Add the button here */}
     </main>
