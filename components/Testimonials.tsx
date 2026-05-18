@@ -1,7 +1,7 @@
 const Testimonials = () => {
   return (
     <section className="py-20 text-white text-center">
-      <h2 className="text-3xl md:text-5xl font-bold mb-10">Customer Reviews</h2>
+      <h2 className="text-3xl md:text-5xl font-bold mb-10">Client Reviews</h2>
 
       <div className="grid md:grid-cols-3 gap-6 px-6">
         <div className="bg-black p-6 rounded-xl">
